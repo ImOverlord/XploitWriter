@@ -47,8 +47,6 @@ def Clear( line ): #Clear Function
 
 
 file= raw_input('File Name: ')
-line = ""
-buffer = ["#ImOverlord"]
 print "\n"
 while line != "{END}":
 	Over = 0 #reset
